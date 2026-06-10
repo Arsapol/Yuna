@@ -1,0 +1,87 @@
+name: Yuna
+type: fictional_character
+category: korean_fashion_model
+age_impression: young_adult
+ethnicity_appearance: korean_east_asian
+
+face:
+  shape: oval
+  jawline: soft
+  cheekbones: high
+  proportions: balanced
+  expression_default: warm_approachable_smile
+
+eyes:
+  shape: almond
+  color: dark_brown
+  eyelids: natural_double_eyelids
+  outer_corners: slightly_lifted
+  look: soft_confident
+
+brows:
+  style: straight_korean
+  definition: soft
+  color: dark_brown
+  arch: minimal
+
+nose:
+  type: small_straight
+  bridge: refined_natural
+  tip: soft
+
+lips:
+  fullness: full_natural
+  color: soft_pink
+  finish: satin_light_gloss
+
+skin_makeup:
+  style: korean_glass_skin
+  finish: dewy
+  texture: lifelike_visible_pores
+  blush: soft_peach_pink
+  eyeliner: light
+  lashes: natural
+  lips: soft_pink
+
+hair:
+  length: long
+  base_color: dark_brown
+  highlight: subtle_caramel_balayage
+  part: center
+  framing: soft_face_framing_layers
+  ends: soft_waves
+  texture: sleek_glossy
+
+body:
+  build: slim_athletic_feminine
+  posture: elegant_relaxed
+  height_impression_cm: "168-172"
+  head_ratio: 7.5
+  shoulders: medium_narrow
+  waist: slim_natural
+  hips: softly_feminine
+  leg_ratio_percent: "52-55"
+  neck: medium_long
+  hands: elegant_small_to_medium
+
+default_outfit:
+  top: white_fitted_crop_top
+  outerwear: oversized_charcoal_gray_blazer
+  skirt: tailored_high_waisted_charcoal_mini_skirt
+  shoes: chunky_white_sneakers
+  socks: white_crew_socks
+  accessory: delicate_minimal_necklace
+
+visual_style:
+  realism: photorealistic
+  genre: fashion_editorial_commercial_catalog
+  lighting: bright_even_softbox
+  shadows: soft
+  background: pastel_pink_seamless
+  lens: 85mm_look
+  aperture: f2_look
+  camera_angle: eye_level
+  focus: sharp_eyes
+  grade: editorial
+  detail: high
+  aspect_ratio: "3:4"

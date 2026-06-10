@@ -1,0 +1,18 @@
+Yuna Camera / Render Style
+
+Genre: photorealistic fashion editorial
+Substyle: commercial fashion catalog
+Lighting: bright even softbox lighting
+Shadows: soft, minimal harsh contrast
+Lens look: 85mm
+Depth of field: shallow-moderate, around f/2.0 look
+Focus: sharp on eyes
+Skin: lifelike texture, visible pores
+Color grade: polished editorial
+Background: pastel seamless studio backdrop
+Default framing:
+- beauty close-up
+- mid-thigh portrait
+- full-body standing
+Aspect ratio:
+- default 3:4 portrait
